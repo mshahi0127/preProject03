@@ -15,7 +15,6 @@
 int main(int argc, char *argv[])
 {
     /*Comment Added */
-    /*pushed to demo branch only*/
 
     /*Store the return value of mode F_OK*/
     int rvalRad;
